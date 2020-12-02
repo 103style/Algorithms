@@ -8,4 +8,8 @@
 
 * [堆排序](https://github.com/103style/Algorithms/blob/master/HeapSort.java)
 
+* [拓扑排序 TopologySort](https://github.com/103style/Algorithms/blob/master/TopologySort.java)
+
 * [字符串匹配算法 KMP](https://github.com/103style/Algorithms/blob/master/KMP.java)
+
+* [UnionFind 并交集](https://github.com/103style/Algorithms/blob/master/UnionFindTest.java)
